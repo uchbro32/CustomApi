@@ -1,7 +1,6 @@
 # CustomApi
-# Pokemon API
 
-Welcome to the Pokemon API! This API provides a simple and flexible endpoint to retrieve information about Pokemon stored in a MongoDB server.
+Welcome to my API! This API provides a simple and flexible endpoint to retrieve information about Pokemon stored in a MongoDB server.
 
 ## Installation
 
